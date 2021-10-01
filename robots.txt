@@ -4,4 +4,4 @@ Disallow: /resources/files/
 User-agent: *
 Allow: /
 
-Sitemap: https://massmedios.net/sitemap.xml
+Sitemap: https://spity.com.co/sitemap.xml

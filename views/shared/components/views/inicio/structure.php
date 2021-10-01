@@ -405,8 +405,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h4>We invite you to book a consultation call with one of our Key Account Managers and we guarantee it will not be a waste of time</h4>
-                    <a class="btn-solid-lg page-scroll" href="#contact">Book Consultation</a>
+                    <h4>Todos los animales tienen derecho a la atención, a los cuidados y a la protección de las personas. Cuidémoslos, ellos dependen de nosotros.</h4>
                 </div>
                 <!-- end of col -->
             </div>
