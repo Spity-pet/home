@@ -23,6 +23,14 @@
                         <a class="nav-link page-scroll">Tienda <span style="background-color: #FFBC0A; border-radius: 5px; padding: 0 5px; margin-left: 10px; color: black;">en construcción</span></a>
                     </li>
                 </ul>
+                <span class="nav-item social-icons">
+                    <span class="fa-stack">
+                        <a href="https://www.instagram.com/spityparamascotas/" target="_blank">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-instagram-f fa-stack-1x"></i>
+                        </a>
+                    </span>
+                </span>
             </div>
             <!-- end of navbar-collapse -->
         </div>
@@ -474,7 +482,7 @@
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.instagram.com/spityparamascotas/" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
