@@ -67,7 +67,7 @@
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Comodidad</h5>
-                                <div class="card-text">To build a solid foundation for your online shop you need a strong brand and a bulletproof strategy</div>
+                                <div class="card-text">El diseño ergonómico es cómodo para tú mascota, ya que se adapta a ella</div>
                             </div>
                         </div>
                         <!-- end of card -->
@@ -79,7 +79,7 @@
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Autenticidad</h5>
-                                <div class="card-text">Our team of competent designers and developers are able to create beautiful designs and structured code</div>
+                                <div class="card-text">La personalización del collar permite que tú mascota exprese su personalidad a través del collar.</div>
                             </div>
                         </div>
                         <!-- end of card -->
@@ -91,7 +91,7 @@
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Seguridad</h5>
-                                <div class="card-text">We can deliver a comprehensive marketing plan and then execute it down to the smallest details</div>
+                                <div class="card-text">¡Calma!, Spity te alertará, guiará y ayudará a que tú mascota este más segura. Con Spity encontrarás tranquilidad.</div>
                             </div>
                         </div>
                         <!-- end of card -->
