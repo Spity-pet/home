@@ -618,7 +618,7 @@ input[type='checkbox'] {
 
 .header {
     padding-top: 7rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)), url('../../../images/header-background.jpg') center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)), url('../../../images/landing/header-background.jpg') -380vw 0 no-repeat;
     background-size: cover;
     text-align: center;
 }
@@ -903,7 +903,7 @@ input[type='checkbox'] {
 .basic-4 {
     padding-top: 9rem;
     padding-bottom: 9rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../../images/mission-background.jpg') center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../../images/landing/mission-background.jpg') center center no-repeat;
     background-size: cover;
     text-align: center;
 }
@@ -1078,7 +1078,7 @@ input[type='checkbox'] {
 .form-1 {
     padding-top: 9.5rem;
     padding-bottom: 8.5rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../../../../../images/contact-background.jpg') center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url('../../../images/landing/contact-background.jpg') center center no-repeat;
     background-size: cover;
 }
 
@@ -1315,6 +1315,9 @@ a:hover.back-to-top {
 /* Min-width 768px */
 
 @media (min-width: 768px) {
+    .header {
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)), url('../../../images/landing/header-background.jpg') center center no-repeat;
+    }
     /* Header */
     .header {
         padding-top: 10rem;

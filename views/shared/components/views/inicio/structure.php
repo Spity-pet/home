@@ -17,10 +17,10 @@
                         <a class="nav-link page-scroll" href="#details">Detalles</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#strengths">Fortalezas</a>
+                        <a class="nav-link page-scroll" href="#contact">Contacto</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#contact">Contacto</a>
+                        <a class="nav-link page-scroll">Tienda <span style="background-color: #FFBC0A; border-radius: 5px; padding: 0 5px; margin-left: 10px; color: black;">en construcción</span></a>
                     </li>
                 </ul>
             </div>
@@ -63,7 +63,7 @@
                         <!-- Card -->
                         <div class="card">
                             <div class="card-image">
-                                <i class="fas fa-rocket"></i>
+                                <i class="fas fa-couch"></i>
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Comodidad</h5>
@@ -75,7 +75,7 @@
                         <!-- Card -->
                         <div class="card">
                             <div class="card-image">
-                                <i class="fas fa-pencil-ruler"></i>
+                                <i class="fas fa-star"></i>
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Autenticidad</h5>
@@ -87,7 +87,7 @@
                         <!-- Card -->
                         <div class="card">
                             <div class="card-image">
-                                <i class="fas fa-chart-pie"></i>
+                                <i class="fas fa-shield-alt"></i>
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">Seguridad</h5>
@@ -117,32 +117,30 @@
                     <div class="text-container">
                         <h2>Personalizado</h2>
                         <hr class="hr-heading">
-                        <p>To build a solid foundation for your online shop you need a strong brand and a bulletproof strategy. You can rely on our experience to create a beautiful and efficient online shop</p>
+                        <p>La personalización y Spity son una sola. Podrás encontrar una gran variedad de diseños que son recomendados con base a un test que tenemos preparado para nuestros usuarios. Hay un diseño preparado especialmente para tu mascota, llena el test y te lo mostraremos.</p>
+                        <p>Nuestro test tiene en cuenta:</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body">Delivering powerful brands for popular shops</div>
+                                <div class="media-body">La morfología</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body">Creating beautiful concepts and evocative logos</div>
+                                <div class="media-body">Personalidad</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body">Preparing complete branding guides and styles</div>
-                            </li>
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body">Speedy delivery of marketing design assets</div>
+                                <div class="media-body">Sexo de la mascota</div>
                             </li>
                         </ul>
+                        <p><strong>Resultado:</strong> descripción de tú mascota, cuidados, datos curiosos y un collar perfecto.</p>
                     </div>
                     <!-- end of text-container -->
                 </div>
                 <!-- end of col -->
-                <div class="col-lg-6 col-xl-7">
+                <div class="col-lg-6 col-xl-7" style="display: flex; align-items: center;">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/details-1.png" alt="alternative">
+                        <img class="img-fluid" src="resources/images/landing/details-1.jpg" alt="alternative">
                     </div>
                     <!-- end of image-container -->
                 </div>
@@ -162,7 +160,7 @@
             <div class="row">
                 <div class="image-area">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/details-2.jpg" alt="alternative">
+                        <img class="img-fluid" src="resources/images/landing/details-2.jpg" alt="alternative">
                     </div>
                     <!-- end of image-container -->
                 </div>
@@ -171,8 +169,7 @@
                     <div class="text-container">
                         <h2>Rastreo GPS</h2>
                         <hr class="hr-heading">
-                        <p>Our team of competent designers and developers are able to create beautiful designs and structured code that will serve your ecommerce project to establish your market position and increase revenues</p>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#gps-lightbox">Descubre cómo funciona</a>
+                        <p>Con el GPS podrás rastrear y llevar seguimiento de tú mascota. Gracias a la red de aliados, si cerca a ti aparece una mascota notificada como perdida te llegará una notificación.</p>
                     </div>
                     <!-- end of text-container -->
                 </div>
@@ -186,56 +183,6 @@
     <!-- end of details 2 -->
 
 
-    <!-- Details Lightbox -->
-    <!-- Lightbox -->
-    <div id="gps-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
-        <div class="row">
-            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-            <div class="col-lg-8">
-                <div class="image-container">
-                    <img class="img-fluid" src="images/details-lightbox.jpg" alt="alternative">
-                </div>
-                <!-- end of image-container -->
-            </div>
-            <!-- end of col -->
-            <div class="col-lg-4">
-                <h3>Identificación QR</h3>
-                <hr>
-                <p>The app can easily help you track your personal development evolution if you take the time to set it up.</p>
-                <h4>User Feedback</h4>
-                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity.</p>
-                <ul class="list-unstyled li-space-lg">
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Splash screen panel</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Statistics graph report</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Events calendar layout</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Location details screen</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Onboarding steps interface</div>
-                    </li>
-                </ul>
-                <a class="btn-solid-reg mfp-close page-scroll" href="#contact">Contact Us</a> <button class="btn-outline-reg mfp-close as-button" type="button">Back</button>
-            </div>
-            <!-- end of col -->
-        </div>
-        <!-- end of row -->
-    </div>
-    <!-- end of lightbox-basic -->
-    <!-- end of lightbox -->
-    <!-- end of details lightbox -->
-
 
     <!-- Details 3 -->
     <div class="basic-3">
@@ -245,33 +192,29 @@
                     <div class="text-container">
                         <h2>Identificación QR</h2>
                         <hr class="hr-heading">
-                        <p>We can deliver a comprehensive marketing plan and then execute it down to the smallest details. Our marketing specialist will also conduct evaluations regularly and advise you</p>
+                        <p>En el localizador portátil de Spity se podrá encontrar un código QR escaneable para contactar al dueño de una mascota perdida.</p>
+                        <p>Al escanear un código QR podrás conocer:</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body">Marketing plan for 6 months with evaluation</div>
+                                <div class="media-body">Nombre de la mascota</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body">Email campaigns for the existing customers</div>
+                                <div class="media-body">Notas del dueño</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-square"></i>
-                                <div class="media-body">Remarketing campaigns to reduce cart abandon</div>
-                            </li>
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body">Loyalty programs for your favorite clients</div>
+                                <div class="media-body">Ubicación de su hogar</div>
                             </li>
                         </ul>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#qr-lightbox">Descubre cómo funciona</a>
                     </div>
                     <!-- end of text-container -->
                 </div>
                 <!-- end of col -->
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/details-3.png" alt="alternative">
+                        <img class="img-fluid" src="resources/images/landing/details-3.jpg" alt="alternative">
                     </div>
                     <!-- end of image-container -->
                 </div>
@@ -285,63 +228,12 @@
     <!-- end of details 3 -->
 
     
-    <!-- Details Lightbox -->
-    <!-- Lightbox -->
-    <div id="qr-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
-        <div class="row">
-            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-            <div class="col-lg-8">
-                <div class="image-container">
-                    <img class="img-fluid" src="images/details-lightbox.jpg" alt="alternative">
-                </div>
-                <!-- end of image-container -->
-            </div>
-            <!-- end of col -->
-            <div class="col-lg-4">
-                <h3>Identificación QR</h3>
-                <hr>
-                <p>The app can easily help you track your personal development evolution if you take the time to set it up.</p>
-                <h4>User Feedback</h4>
-                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity.</p>
-                <ul class="list-unstyled li-space-lg">
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Splash screen panel</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Statistics graph report</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Events calendar layout</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Location details screen</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i>
-                        <div class="media-body">Onboarding steps interface</div>
-                    </li>
-                </ul>
-                <a class="btn-solid-reg mfp-close page-scroll" href="#contact">Contact Us</a> <button class="btn-outline-reg mfp-close as-button" type="button">Back</button>
-            </div>
-            <!-- end of col -->
-        </div>
-        <!-- end of row -->
-    </div>
-    <!-- end of lightbox-basic -->
-    <!-- end of lightbox -->
-    <!-- end of details lightbox -->
-
-
     <!-- Mission -->
     <div class="basic-4">
         <div class="container">
             <div class="row">
                 <div class="text-container">
-                    <h4>Entiende cuáles son los principales problemas potenciales de tus clientes y usuarios. Eso te llevará a plantearte tu siguiente experimento</h4>
+                    <h4>Para conocer más de los servicios que ofrece Spity, a continuación:</h4>
                 </div>
                 <!-- end of text-container -->
             </div>
@@ -362,31 +254,22 @@
                         <li class="media">
                             <div class="bullet">1</div>
                             <div class="media-body">
-                                <h4>Perfil dueño</h4>
-                                <p>Son personas en edad para criar a una mascota, con acceso a internet y un dispositivo móvil. Pertenecen a una clase social media y alta relativa que les permite acceder a nuestro producto localizador.</p>
+                                <h4>Personalización</h4>
+                                <p>Se personaliza el collar de acuerdo al test de personalidad y/o las modificaciones que el dueño quiera.</p>
                             </div>
                         </li>
                         <li class="media">
                             <div class="bullet">2</div>
                             <div class="media-body">
-                                <h4>Perfil servicios</h4>
-                                <p>Personas o grupos de personas con un negocio pequeño o mediano que ofrezca servicios para las mascotas. Tienen acceso a internet, dispositivos móviles y redes sociales.
-
-                                </p>
+                                <h4>Tecnología</h4>
+                                <p>Por medio de una argolla se une el collar con el localizador, este último contiene el sensor, GPS y código QR.</p>
                             </div>
                         </li>
                         <li class="media">
                             <div class="bullet">3</div>
                             <div class="media-body">
-                                <h4>Perfil organizaciones</h4>
-                                <p>Son organizaciones sin ánimo de lucro cuya misión es ayudar a animalitos en condiciones vulnerables y que buscan un dueño. Tienen redes sociales.</p>
-                            </div>
-                        </li>
-                        <li class="media">
-                            <div class="bullet">4</div>
-                            <div class="media-body">
-                                <h4>Perfil estándar</h4>
-                                <p>Personas de cualquier edad con dispositivo móvil propio y acceso a internet. Son altruistas y sensibles con los animales.</p>
+                                <h4>Rastreo</h4>
+                                <p>Por último podrás llevar un rastreo de tú mascota a través de la plataforma y recibir notificaciones de perdidas de mascotas gracias a una red de aliados.</p>
                             </div>
                         </li>
                     </ul>
@@ -417,7 +300,7 @@
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="image-container">
-                                                <img class="img-fluid" src="images/project-1.jpg" alt="alternative">
+                                                <img class="img-fluid" src="resources/images/landing/project-1.jpg" alt="alternative">
                                             </div>
                                             <!-- end of image-container -->
                                         </div>
@@ -442,7 +325,7 @@
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="image-container">
-                                                <img class="img-fluid" src="images/project-2.jpg" alt="alternative">
+                                                <img class="img-fluid" src="resources/images/landing/project-2.jpg" alt="alternative">
                                             </div>
                                             <!-- end of image-container -->
                                         </div>
@@ -498,26 +381,12 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container bg-gray">
-                        <h2>About our team</h2>
-                        <p>We are a group of designers, developers and marketers specialized in the Shopify platform. We've launched many stores in 10 years</p>
-                        <ul class="list-unstyled li-space-lg">
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body">We love what we do and have a lot of passion</div>
-                            </li>
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body">Shopify is our go to platform for online shops</div>
-                            </li>
-                            <li class="media">
-                                <i class="fas fa-square"></i>
-                                <div class="media-body">We are Shopify partners for about 5 years</div>
-                            </li>
-                        </ul>
+                        <h2>Nuestro Equipo</h2>
+                        <p>Spity es hecho por un equipo multidisciplinario, lo que permite una gran variedad de conocimientos, experiencias y posiciones detrás del producto. Esto con el fin de poder crear un producto que le cumpla al ciente para que tenga una buena experiencia.  Algunas de estás áreas de estudio son: La ingeniería, diseño, economía y antropología.</p>
                     </div>
                     <!-- end of text-container -->
                     <div class="image-container">
-                        <img class="img-fluid" src="images/about.jpg" alt="alternative">
+                        <img class="img-fluid" src="resources/images/landing/about.jpg" alt="alternative">
                     </div>
                     <!-- end of image-container -->
                 </div>
