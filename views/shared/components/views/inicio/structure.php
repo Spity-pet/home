@@ -2,11 +2,7 @@
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
         <div class="container">
 
-            <!-- Image Logo -->
             <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>
-
-            <!-- Text Logo - Use this if you don't have a graphic logo -->
-            <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Spify</a> -->
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
@@ -15,10 +11,10 @@
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#header">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link page-scroll" href="#header">Inicio <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#details">Details</a>
+                        <a class="nav-link page-scroll" href="#details">Detalles</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#strengths">Strengths</a>
@@ -26,34 +22,10 @@
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#about">About</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Drop</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown01">
-                            <a class="dropdown-item page-scroll" href="article.html">Article Details</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item page-scroll" href="terms.html">Terms Conditions</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item page-scroll" href="privacy.html">Privacy Policy</a>
-                        </div>
-                    </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#contact">Contact</a>
                     </li>
                 </ul>
-                <span class="nav-item social-icons">
-                    <span class="fa-stack">
-                        <a href="#your-link">
-                            <i class="fas fa-circle fa-stack-2x"></i>
-                            <i class="fab fa-facebook-f fa-stack-1x"></i>
-                        </a>
-                    </span>
-                <span class="fa-stack">
-                        <a href="#your-link">
-                            <i class="fas fa-circle fa-stack-2x"></i>
-                            <i class="fab fa-twitter fa-stack-1x"></i>
-                        </a>
-                    </span>
-                </span>
             </div>
             <!-- end of navbar-collapse -->
         </div>
@@ -76,8 +48,8 @@
                 <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h3>We offer complete ecommerce solutions based on Shopify</h3>
-                        <a class="btn-solid-lg page-scroll" href="#details">Discover</a>
+                        <h3>El amor es una palabra de cuatro patas.</h3>
+                        <a class="btn-solid-lg page-scroll" href="#details">Descubre más</a>
                     </div>
                     <!-- end of text-container -->
                 </div>
@@ -97,7 +69,7 @@
                                 <i class="fas fa-rocket"></i>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Branding & strategy</h5>
+                                <h5 class="card-title">Comodidad</h5>
                                 <div class="card-text">To build a solid foundation for your online shop you need a strong brand and a bulletproof strategy</div>
                             </div>
                         </div>
@@ -109,7 +81,7 @@
                                 <i class="fas fa-pencil-ruler"></i>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Design & development</h5>
+                                <h5 class="card-title">Autenticidad</h5>
                                 <div class="card-text">Our team of competent designers and developers are able to create beautiful designs and structured code</div>
                             </div>
                         </div>
@@ -121,7 +93,7 @@
                                 <i class="fas fa-chart-pie"></i>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Digital marketing</h5>
+                                <h5 class="card-title">Seguridad</h5>
                                 <div class="card-text">We can deliver a comprehensive marketing plan and then execute it down to the smallest details</div>
                             </div>
                         </div>
@@ -320,7 +292,7 @@
         <div class="container">
             <div class="row">
                 <div class="text-container">
-                    <h4>Our mission is to deliver reliable ecommerce solutions together with the necessary consulting and marketing services which will help customers achieve long term market stability</h4>
+                    <h4>Entiende cuáles son los principales problemas potenciales de tus clientes y usuarios. Eso te llevará a plantearte tu siguiente experimento</h4>
                 </div>
                 <!-- end of text-container -->
             </div>
@@ -341,25 +313,31 @@
                         <li class="media">
                             <div class="bullet">1</div>
                             <div class="media-body">
-                                <h4>Specialized expertise</h4>
-                                <p>We've been deploying successful online shops for about 10 year and we've made it our mission to provide the best Shopify development services in the industry. Besides the shop itself we also provide branding and strategy
-                                    services to create solid foundations our customers online projects</p>
+                                <h4>Perfil dueño</h4>
+                                <p>Son personas en edad para criar a una mascota, con acceso a internet y un dispositivo móvil. Pertenecen a una clase social media y alta relativa que les permite acceder a nuestro producto localizador.</p>
                             </div>
                         </li>
                         <li class="media">
                             <div class="bullet">2</div>
                             <div class="media-body">
-                                <h4>Shopify partner</h4>
-                                <p>Our partnership with Shopify enables us to stay on top of all platform updates and prepare them for installation in your own online store. We're in permanent communication with the Shopify design and development team so
-                                    we can solve any difficult situations that can occur after major updates</p>
+                                <h4>Perfil servicios</h4>
+                                <p>Personas o grupos de personas con un negocio pequeño o mediano que ofrezca servicios para las mascotas. Tienen acceso a internet, dispositivos móviles y redes sociales.
+
+                                </p>
                             </div>
                         </li>
                         <li class="media">
                             <div class="bullet">3</div>
                             <div class="media-body">
-                                <h4>Timely delivery</h4>
-                                <p>We take pride in delivering projects before the deadline to extend the pre-launch testing period. This ensures a smooth user experience and it also helps with bringing visitors back. You can check out or <a class="red page-scroll"
-                                        href="#projects">projects section</a> below to hear straight from our customers what they think about us</p>
+                                <h4>Perfil organizaciones</h4>
+                                <p>Son organizaciones sin ánimo de lucro cuya misión es ayudar a animalitos en condiciones vulnerables y que buscan un dueño. Tienen redes sociales.</p>
+                            </div>
+                        </li>
+                        <li class="media">
+                            <div class="bullet">4</div>
+                            <div class="media-body">
+                                <h4>Perfil estándar</h4>
+                                <p>Personas de cualquier edad con dispositivo móvil propio y acceso a internet. Son altruistas y sensibles con los animales.</p>
                             </div>
                         </li>
                     </ul>
@@ -397,10 +375,9 @@
                                         <!-- end of col -->
                                         <div class="col-lg-6">
                                             <div class="text-container">
-                                                <h4>Online retailer shop</h4>
-                                                <p>We were proud to partner with Online Retailer in order to create a modern online store where customers can purchase some of the best items from the market at affordable prices</p>
-                                                <p class="testimonial-text">"I am happy to have chosen Spify for our Shopify implementation. Their specialized experience helped the project and made it available 2 weeks prior the launch date for extensive testing"</p>
-                                                <div class="testimonial-author">Michael Smith - General Manager</div>
+                                                <h4>Misión</h4>
+                                                <p>Somos conscientes del <strong>gran dolor</strong> que conlleva la pérdida de un ser tan querido como una mascota. Por eso queremos contribuir a la <strong>prevención</strong> del escape de los mejores amigos del hombre mediante la tecnología.</p>
+                                                <div class="testimonial-author">Spity Manager</div>
                                             </div>
                                             <!-- end of text-container -->
                                         </div>
@@ -423,10 +400,9 @@
                                         <!-- end of col -->
                                         <div class="col-lg-6">
                                             <div class="text-container">
-                                                <h4>Shopify ecommerce site</h4>
-                                                <p>We were proud to partner with Online Retailer in order to create a modern online store where customers can purchase some of the best items from the market at affordable prices</p>
-                                                <p class="testimonial-text">"I am happy to have chosen Spify for our Shopify implementation. Their specialized experience helped the project and made it available 2 weeks prior the launch date for extensive testing"</p>
-                                                <div class="testimonial-author">Ronnie Blake - Sales Manager</div>
+                                                <h4>Visión</h4>
+                                                <p>Queremos que así como los humanos ya están hiperconectados entre sí; el dueño, su mascota y las personas puedan <strong>tener su propia red y comunicarse instantáneamente.</strong></p>
+                                                <div class="testimonial-author">Spity Manager</div>
                                             </div>
                                             <!-- end of text-container -->
                                         </div>
@@ -438,28 +414,7 @@
                                 <!-- end of slide -->
 
                                 <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="image-container">
-                                                <img class="img-fluid" src="images/project-3.jpg" alt="alternative">
-                                            </div>
-                                            <!-- end of image-container -->
-                                        </div>
-                                        <!-- end of col -->
-                                        <div class="col-lg-6">
-                                            <div class="text-container">
-                                                <h4>Online fashion shop</h4>
-                                                <p>We were proud to partner with Online Retailer in order to create a modern online store where customers can purchase some of the best items from the market at affordable prices</p>
-                                                <p class="testimonial-text">"I am happy to have chosen Spify for our Shopify implementation. Their specialized experience helped the project and made it available 2 weeks prior the launch date for extensive testing"</p>
-                                                <div class="testimonial-author">Nicole Richter - Development Manager</div>
-                                            </div>
-                                            <!-- end of text-container -->
-                                        </div>
-                                        <!-- end of col -->
-                                    </div>
-                                    <!-- end of row -->
-                                </div>
+                                
                                 <!-- end of swiper-slide -->
                                 <!-- end of slide -->
 
@@ -550,39 +505,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Book consultation</h2>
-                    <p class="p-heading">Don't hesitate to give us a call or just use the contact form below</p>
+                    <h2>Contáctanos</h2>
+                    <p class="p-heading">¿Quieres hacer parte de este proyecto?</p>
                     <ul class="list-unstyled li-space-lg">
-                        <li><i class="fas fa-map-marker-alt"></i> &nbsp;22 Innovative, San Francisco, CA 94043, US</li>
-                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:00817202212">+81 720 2212</a></li>
-                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:contact@site.com">contact@site.com</a></li>
+                        <li><i class="fas fa-map-marker-alt"></i> &nbsp;Universidad de los Andes</li>
+                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:+57 3226008803">+57 322 600 8803</a></li>
+                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:hola@spity.com.co">hola@spity.com.co</a></li>
                     </ul>
                 </div>
                 <!-- end of col -->
             </div>
             <!-- end of row -->
-            <div class="row">
-                <div class="col-lg-12">
-
-                    <!-- Contact Form -->
-                    <form id="contactForm">
-                        <div class="form-group">
-                            <input type="text" class="form-control-input" id="cname" required>
-                            <label class="label-control" for="cname">Name</label>
-                        </div>
-                        <div class="form-group">
-                            <input type="email" class="form-control-input" id="cemail" required>
-                            <label class="label-control" for="cemail">Email</label>
-                        </div>
-                        <div class="form-group">
-                            <button type="submit" class="form-control-submit-button">Submit</button>
-                        </div>
-                    </form>
-                    <!-- end of contact form -->
-
-                </div>
-                <!-- end of col -->
-            </div>
             <!-- end of row -->
         </div>
         <!-- end of container -->
@@ -597,17 +530,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-col first">
-                        <h6>About Spify</h6>
-                        <p class="p-small">Spify is a business website Bootstrap HTML template designed to present startups in a beautiful manner with features for description</p>
+                        <h6>Spity</h6>
+                        <p class="p-small">Spity es un collar que ofrece las herramientas de rastreo e identificación para contribuir a la prevención del escape de los mejores amigos del hombre.</p>
                     </div>
                     <!-- end of footer-col -->
                     <div class="footer-col second">
-                        <h6>Links</h6>
-                        <ul class="list-unstyled li-space-lg p-small">
-                            <li>Important: <a href="terms.html">Terms & Conditions</a>, <a href="privacy.html">Privacy Policy</a></li>
-                            <li>Useful: <a href="#">Colorpicker</a>, <a href="#">Icon Library</a>, <a href="#">Illustrations</a></li>
-                            <li>Menu: <a class="page-scroll" href="#header">Home</a>, <a class="page-scroll" href="#details">Details</a>, <a class="page-scroll" href="#strengths">Strengths</a>, <a class="page-scroll" href="#contact">Contact</a></li>
-                        </ul>
                     </div>
                     <!-- end of footer-col -->
                     <div class="footer-col third">
@@ -635,7 +562,7 @@
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
-                        <p class="p-small">We would love to hear from you <a href="mailto:contact@site.com"><strong>contact@site.com</strong></a></p>
+                        <p class="p-small">Nos encantaría conocer tus ideas <a href="mailto:hola@spity.com.co"><strong>hola@spity.com.co</strong></a></p>
                     </div>
                     <!-- end of footer-col -->
                 </div>
@@ -654,22 +581,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © <a href="#your-link">Your name</a></p>
+                    <p class="p-small">Copyright © 2021 <a href="#your-link">Spity</a></p>
                 </div>
                 <!-- end of col -->
             </div>
             <!-- enf of row -->
         </div>
-        <!-- end of container -->
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <p class="p-small">Distributed by <a href="https://themewagon.com/">Themewagon</a></p>
-                </div>
-                <!-- end of col -->
-            </div>
-            <!-- enf of row -->
-        </div>
-        <!-- end of container -->
     </div>
