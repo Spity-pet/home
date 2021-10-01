@@ -4,7 +4,7 @@ use MVC4PHP\View;
 
 $title = isset($data["title"]) ? $data["title"] . " - " : "Spity | Comodidad - Autenticidad - Seguridad";
 $canonical = isset($data["canonical"]) ? "https://storend.com.co/" . $data["canonical"] : "https://storend.com.co/";
-$description = isset($data["description"]) ? $data["description"] : "El ❤ amor es una palabra de cuatro patas. En Spity nos encanta ayudarte a estar junto a tu mascota.";
+$description = isset($data["description"]) ? $data["description"] : "El ❤ amor es una palabra de cuatro patas. En Spity nos encanta ayudarte a prevenir el escape de los mejores amigos del hombre mediante la tecnología.";
 $css = isset($data["css"]) ? $data["css"] : [];
 $js = isset($data["js"]) ? $data["js"] : [];
 $module = isset($data["module"]) ? $data["module"] : [];

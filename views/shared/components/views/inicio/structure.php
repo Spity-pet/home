@@ -17,13 +17,10 @@
                         <a class="nav-link page-scroll" href="#details">Detalles</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#strengths">Strengths</a>
+                        <a class="nav-link page-scroll" href="#strengths">Fortalezas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#contact">Contact</a>
+                        <a class="nav-link page-scroll" href="#contact">Contacto</a>
                     </li>
                 </ul>
             </div>
