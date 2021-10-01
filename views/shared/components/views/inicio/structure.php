@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
         <div class="container">
 
-            <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>
+            <a class="navbar-brand logo-image" href="index.html"><img src="resources/images/brand/logo.svg" alt="Spity"></a>
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
@@ -41,7 +41,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/header-logo.svg" alt="alternative">
+                        <img class="img-fluid" src="resources/images/brand/logo.svg" alt="Spity">
                     </div>
                     <!-- end of image-container -->
                 </div>
@@ -118,7 +118,7 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2>Branding & strategy</h2>
+                        <h2>Personalizado</h2>
                         <hr class="hr-heading">
                         <p>To build a solid foundation for your online shop you need a strong brand and a bulletproof strategy. You can rely on our experience to create a beautiful and efficient online shop</p>
                         <ul class="list-unstyled li-space-lg">
@@ -172,10 +172,10 @@
                 <!-- end of image-area -->
                 <div class="text-area">
                     <div class="text-container">
-                        <h2>Design & development</h2>
+                        <h2>Rastreo GPS</h2>
                         <hr class="hr-heading">
                         <p>Our team of competent designers and developers are able to create beautiful designs and structured code that will serve your ecommerce project to establish your market position and increase revenues</p>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">Lightbox</a>
+                        <a class="btn-solid-reg popup-with-move-anim" href="#gps-lightbox">Descubre cómo funciona</a>
                     </div>
                     <!-- end of text-container -->
                 </div>
@@ -191,7 +191,7 @@
 
     <!-- Details Lightbox -->
     <!-- Lightbox -->
-    <div id="details-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
+    <div id="gps-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
         <div class="row">
             <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
             <div class="col-lg-8">
@@ -202,7 +202,7 @@
             </div>
             <!-- end of col -->
             <div class="col-lg-4">
-                <h3>Goals Setting</h3>
+                <h3>Identificación QR</h3>
                 <hr>
                 <p>The app can easily help you track your personal development evolution if you take the time to set it up.</p>
                 <h4>User Feedback</h4>
@@ -246,7 +246,7 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2>Digital marketing</h2>
+                        <h2>Identificación QR</h2>
                         <hr class="hr-heading">
                         <p>We can deliver a comprehensive marketing plan and then execute it down to the smallest details. Our marketing specialist will also conduct evaluations regularly and advise you</p>
                         <ul class="list-unstyled li-space-lg">
@@ -267,6 +267,7 @@
                                 <div class="media-body">Loyalty programs for your favorite clients</div>
                             </li>
                         </ul>
+                        <a class="btn-solid-reg popup-with-move-anim" href="#qr-lightbox">Descubre cómo funciona</a>
                     </div>
                     <!-- end of text-container -->
                 </div>
@@ -285,6 +286,57 @@
     </div>
     <!-- end of basic-3 -->
     <!-- end of details 3 -->
+
+    
+    <!-- Details Lightbox -->
+    <!-- Lightbox -->
+    <div id="qr-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <div class="image-container">
+                    <img class="img-fluid" src="images/details-lightbox.jpg" alt="alternative">
+                </div>
+                <!-- end of image-container -->
+            </div>
+            <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Identificación QR</h3>
+                <hr>
+                <p>The app can easily help you track your personal development evolution if you take the time to set it up.</p>
+                <h4>User Feedback</h4>
+                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity.</p>
+                <ul class="list-unstyled li-space-lg">
+                    <li class="media">
+                        <i class="fas fa-check"></i>
+                        <div class="media-body">Splash screen panel</div>
+                    </li>
+                    <li class="media">
+                        <i class="fas fa-check"></i>
+                        <div class="media-body">Statistics graph report</div>
+                    </li>
+                    <li class="media">
+                        <i class="fas fa-check"></i>
+                        <div class="media-body">Events calendar layout</div>
+                    </li>
+                    <li class="media">
+                        <i class="fas fa-check"></i>
+                        <div class="media-body">Location details screen</div>
+                    </li>
+                    <li class="media">
+                        <i class="fas fa-check"></i>
+                        <div class="media-body">Onboarding steps interface</div>
+                    </li>
+                </ul>
+                <a class="btn-solid-reg mfp-close page-scroll" href="#contact">Contact Us</a> <button class="btn-outline-reg mfp-close as-button" type="button">Back</button>
+            </div>
+            <!-- end of col -->
+        </div>
+        <!-- end of row -->
+    </div>
+    <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+    <!-- end of details lightbox -->
 
 
     <!-- Mission -->
