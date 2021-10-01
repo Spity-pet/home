@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /resources/files/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://massmedios.net/sitemap.xml

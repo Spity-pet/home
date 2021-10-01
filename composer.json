@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dsoft/mvc4php": "^3.4"
+    }
+}
