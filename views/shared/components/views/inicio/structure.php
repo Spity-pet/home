@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
         <div class="container">
 
-            <a class="navbar-brand logo-image" href="index.html"><img src="resources/images/brand/logo.svg" alt="Spity"></a>
+            <a class="navbar-brand logo-image" href="inicio"><img src="resources/images/brand/logo.svg" alt="Spity"></a>
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
